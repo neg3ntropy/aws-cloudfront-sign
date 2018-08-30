@@ -28,9 +28,9 @@
   "tonicExampleFilename": "./examples/signedURL.js",
   "devDependencies": {
     "chai": "^2.2.0",
-    "mocha": "^2.2.1",
+    "lodash": "^4.17.10",
+    "mocha": "^5.2.0",
     "moment": "^2.9.0",
-    "sinon": "^1.14.1",
-    "lodash": "^3.6.0"
+    "sinon": "^1.14.1"
   }
 }
